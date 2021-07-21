@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pichamonn/pancake-swap-sdk",
+  "repository": "https://github.com/pichamonn/pancake-swap-sdk.git",
   "keywords": [
     "pancakeswap",
     "bsc"
